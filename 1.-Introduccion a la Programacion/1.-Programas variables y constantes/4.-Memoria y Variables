@@ -1,0 +1,15 @@
+# Memoria y Variables
+
+Para que algo funcione en el ordenados, el procesador debe leerlo desde una memoria, si la memoria se llena deja de funcionar colapsando el SO y la memoria.
+
+Para acceder a los espacios de memoria, se requiere de la **dirección de memoria**, que comienza sus posiciones desde el 0 **siempre**.
+
+Una **variable, es un nombre humano** para una posición de la memoria, en vez de posición 1 se tendrá numero = 5, la memoria es dinámica, asi que la variable puede cambiar su valor.
+
+    numero = 1234
+
+La variable evita tener que recordar la posición de la memoria contiene el dato.
+
+Las variables pueden ser **cambiantes o no combiantes**, las que pueden cambiar su valor en cada momento son **variables** y las que no, son conocidas como **constantes.** Las que cambian son las mas frecuentes y según sea el caso, serán usados datos no cambiables.
+
+*La memoria es finita, posee millones de posiciones, imposibles de recordar, por eso se usan las variables.*
